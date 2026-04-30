@@ -1,3 +1,4 @@
 # apnacollege_demo
-demo
-this is frist commit.
+this is my Git Repository.
+<br>
+Author- Pankaj Kumar
